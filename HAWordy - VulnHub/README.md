@@ -30,7 +30,7 @@ The assessment demonstrates the complete penetration testing lifecycle, includin
 - Nmap
 - Wfuzz
 - WPScan
-- Metasploit Framework
+- Searchsploit
 - Netcat
 - Bash
 - Python3
